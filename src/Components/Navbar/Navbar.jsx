@@ -69,8 +69,8 @@ export default function Navbar() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-2 text-sm">
             <div className="flex items-center space-x-4 text-gray-600">
-              <span>📞 +20 1200997915</span>
-              <span>✉️ ahmedesamnew2002@gmail.com</span>
+              <span>📞 +20 1144045412</span>
+              <span>✉️ ahmedelbedewy21@gmail.com</span>
             </div>
             <div className="flex items-center space-x-4">
               {socialLinks.map((social, index) => (

@@ -36,11 +36,11 @@ export default function Footer() {
             <div className="space-y-2">
               <div className="flex items-center space-x-2 text-gray-400">
                 <FontAwesomeIcon icon={faPhone} className="w-4 h-4" />
-                <span className="text-sm">+20 1200997915</span>
+                <span className="text-sm">+20 1144045412</span>
               </div>
               <div className="flex items-center space-x-2 text-gray-400">
                 <FontAwesomeIcon icon={faEnvelope} className="w-4 h-4" />
-                <span className="text-sm">ahmedesamnew2002@gmail.com</span>
+                <span className="text-sm">ahmedelbedewy21@gmail.com</span>
               </div>
             </div>
           </div>
@@ -104,7 +104,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-gray-800 mt-8 pt-6 text-center">
           <p className="text-gray-400 text-sm">
-            © 2025 FreshCart. All rights reserved. Made with ❤️ by Ahmed Esam
+            © 2025 FreshCart. All rights reserved. Made with ❤️ by Ahmed abdelaziz
           </p>
         </div>
       </div>

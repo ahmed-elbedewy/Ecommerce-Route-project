@@ -1,4 +1,12 @@
-@import "tailwindcss/preflight";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* 
+  Make sure your build tool (like PostCSS with Tailwind CSS plugin) is configured to process @tailwind directives.
+  If you are editing plain CSS without Tailwind setup, remove these lines and use the generated CSS instead.
+*/
 
 @layer utilities {
   .line-clamp-2 {
